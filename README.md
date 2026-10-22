@@ -15,7 +15,7 @@ Minha experiência inclui desenvolver e manter pipelines de dados de
 ponta a ponta, trabalhar na qualidade e consistência das informações e
 construir modelos analíticos e métricas importantes para o negócio.
 
-Áreas de interesse
+Áreas de interesse:
 - Engenharia de dados e plataformas de dados
 - Analytics Engineering e modelagem de dados
 - Pipelines escaláveis e processamento distribuído
@@ -24,12 +24,13 @@ construir modelos analíticos e métricas importantes para o negócio.
 - Confiabilidade, observabilidade e otimização de pipelines
 Stack técnica
 
-Tecnologias com as quais trabalho
+Tecnologias com as quais trabalho:
 - Linguagens e consulta: Scala, SQL
 - Processamento de dados: Apache Spark
 - Plataforma de dados: Databricks
 - Desenvolvimento colaborativo: Git e GitHub
-Temas que quero explorar e demonstrar por meio de projetos
+
+Temas que quero explorar e demonstrar por meio de projetos:
 - Testes automatizados e contratos de dados
 - Processamento incremental, idempotência e reprocessamento
 - CI/CD para pipelines de dados
