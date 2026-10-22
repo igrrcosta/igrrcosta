@@ -15,11 +15,6 @@ Minha experiência inclui desenvolver e manter pipelines de dados de
 ponta a ponta, trabalhar na qualidade e consistência das informações e
 construir modelos analíticos e métricas importantes para o negócio.
 
-Também tenho experiência anterior com dados de perdas operacionais e
-colaboração com áreas de negócio --- incluindo Cartões, Empréstimos e
-Investimentos --- para melhorar a qualidade dos dados utilizados em
-relatórios.
-
 Áreas de interesse
 - Engenharia de dados e plataformas de dados
 - Analytics Engineering e modelagem de dados
@@ -42,10 +37,10 @@ Temas que quero explorar e demonstrar por meio de projetos
 - Performance e otimização de workloads distribuídos
 - Arquiteturas Lakehouse e formatos abertos de tabelas
 
-Portfólio
 Estou desenvolvendo projetos públicos para explorar problemas reais de
 engenharia de dados e documentar as decisões técnicas, os testes e os
 resultados de cada solução.
+
 Projetos em desenvolvimento
   Projeto                 Objetivo                Status
   Pipeline analítico      Construir um pipeline   Planejado
