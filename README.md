@@ -1,4 +1,4 @@
-## Olá, eu sou Igor Costa 👋
+## Olá, eu sou Igor 👋
 
 ### Senior Software Engineer \| Data Engineering · Analytics Engineering · Data Platforms
 
