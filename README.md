@@ -41,29 +41,6 @@ Estou desenvolvendo projetos públicos para explorar problemas reais de
 engenharia de dados e documentar as decisões técnicas, os testes e os
 resultados de cada solução.
 
-Projetos em desenvolvimento
-  Projeto                 Objetivo                Status
-  Pipeline analítico      Construir um pipeline   Planejado
-  incremental             reproduzível com
-                          transformações
-                          SQL/Spark, deduplicação
-                          e tratamento de dados
-                          atrasados               
-
-  Qualidade e contratos   Demonstrar testes de    Planejado
-  de dados                integridade, validações
-                          de regras de negócio e
-                          detecção de dados
-                          inválidos               
-
-  Laboratório de          Comparar estratégias de Planejado
-  performance Spark       execução com benchmarks
-                          reproduzíveis e análise
-                      de planos de execução   
-Os projetos serão adicionados a esta seção conforme seus repositórios e
-documentação estiverem publicados. Nenhum dos itens acima representa um
-projeto concluído neste momento.
-
 Como uso este espaço:
 
 Este GitHub é meu espaço para aprender continuamente, experimentar
