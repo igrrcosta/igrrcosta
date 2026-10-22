@@ -50,9 +50,7 @@ Quero que cada repositório explique não apenas como a solução
 funciona, mas também por que determinadas decisões foram tomadas,
 quais trade-offs existem e como validar os resultados.
 
-::: {align="center"}
 **Vamos nos conectar?**
 
 [LinkedIn](https://www.linkedin.com/in/igor-costa-396037192/) ·
 [E-mail](mailto:igorpaulofcosta@gmail.com)
-:::
