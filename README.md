@@ -6,7 +6,7 @@ Construo soluções de dados escaláveis e confiáveis, com foco em
 pipelines analíticos, qualidade, governança e produtos de dados que
 apoiam decisões de negócio.
 
-####Sobre mim:
+Sobre mim:
 
 Sou Senior Software Engineer, com mais de 5 anos de
 experiência em engenharia de dados e plataformas de dados em ambientes
