@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Igor Costa.
+- 👋 Hi, I’m Igor Costa, Senior Software Engineer focused in Data.
 - 👀 I’m interested in Analytics Engineering and Data Engineering
 - 🌱 I’m currently learning AI.
 - 🛠️ I’m looking to collaborate on Analytics and Data Engineering projects and discussions.
